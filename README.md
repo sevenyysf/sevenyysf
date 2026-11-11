@@ -17,7 +17,7 @@ I work with data, teach statistical methods, and help make analysis easier to un
 
 | Work | Focus |
 | --- | --- |
-| **SATRIA DATA 2026 — Big Data Challenge** | University delegate; compared LightGBM, XGBoost, and CatBoost during internal selection, then contributed to a team classification model in Python. |
+| **SATRIA DATA 2026 — Big Data Challenge** | University delegate; compared LightGBM, XGBoost, and CatBoost during internal selection, then built a team waste-image classifier in PyTorch (ConvNeXt-S and EfficientNetV2-S ensemble) scoring 96.7% macro F1 on the competition test set. [Code](https://github.com/sevenyysf/waste-classification-bdc-satdat2026) |
 | **Diabetes status, modeled in order** | Course project with Mutiara Meisya Fadila: ordinal logistic regression in R on 253,680 CDC BRFSS 2015 responses, with assumption checks and odds ratios. [Code](https://github.com/sevenyysf/determinan-diabet-ordinal-logit) · [Report](https://rpubs.com/mutiaramsyaf/ProjectAkhirADK) |
 | **Indonesia’s carbon market** | SATRIA DATA 2026 Statistics Infographic Challenge. Team analysis of CO₂ emissions and energy consumption in R, translated into an infographic about IDXCarbon and the energy transition. |
 | **FOKASI statistical outreach** | Statistical consultation and digital communication, working with the multimedia team to reach research clients. |

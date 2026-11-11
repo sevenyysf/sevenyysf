@@ -18,7 +18,8 @@ I work with data, teach statistical methods, and help make analysis easier to un
 | Work | Focus |
 | --- | --- |
 | **SATRIA DATA 2026 — Big Data Challenge** | University delegate; compared LightGBM, XGBoost, and CatBoost during internal selection, then contributed to a team classification model in Python. |
-| **Indonesia’s carbon market** | Team analysis of CO₂ emissions and energy consumption in R, translated into an infographic about IDXCarbon and the energy transition. |
+| **Diabetes status, modeled in order** | Course project with Mutiara Meisya Fadila: ordinal logistic regression in R on 253,680 CDC BRFSS 2015 responses, with assumption checks and odds ratios. [Code](https://github.com/sevenyysf/determinan-diabet-ordinal-logit) · [Report](https://rpubs.com/mutiaramsyaf/ProjectAkhirADK) |
+| **Indonesia’s carbon market** | SATRIA DATA 2026 Statistics Infographic Challenge. Team analysis of CO₂ emissions and energy consumption in R, translated into an infographic about IDXCarbon and the energy transition. |
 | **FOKASI statistical outreach** | Statistical consultation and digital communication, working with the multimedia team to reach research clients. |
 
 Explore the [project notes and supporting materials](https://sevenyysf.github.io/portfolio/#work), or browse the [portfolio website repository](https://github.com/sevenyysf/portfolio).
